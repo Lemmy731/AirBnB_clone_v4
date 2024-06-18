@@ -8,7 +8,7 @@ It was based off the basic characteristics of the Airbnb platform.
 
 # Iterations
 
-The project was developed in several iterations, being V4 the last one. This iterations encompassed several concepts and integrations that will be explained below.
+This project was developed in several iterations, being V4 the last one. This iterations encompassed several concepts and integrations that will be explained below.
 
 ## The Console
 
